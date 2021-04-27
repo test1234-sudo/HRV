@@ -1,4 +1,4 @@
-function [filt_sig,tmavg,tmstd] = tmzscore_filter(sig,wl,pct)
+function [filt_sig,tmavg,tmstd] = tmzscore_filter(sig,wl,pct) ... 
 %
 % [filt_sig,tmavg,tmstd] = tmzscore_filter(sig,wl,pct)
 %
